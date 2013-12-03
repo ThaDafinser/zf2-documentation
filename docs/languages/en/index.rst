@@ -32,6 +32,7 @@
    migration/overview
    migration/namespacing-old-classes
    migration/zf1_zf2_parallel
+   performance/guid
    modules/zend.authentication.intro
    modules/zend.authentication.adapter.dbtable
    modules/zend.authentication.adapter.digest
